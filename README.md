@@ -1,4 +1,7 @@
-# HTML-FS-3-1. Задача 3.  Форма обратной связи
+# Форма обратной связи
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Yulia-Aseeva/pen/mdaywKK](https://codepen.io/Yulia-Aseeva/pen/mdaywKK).
+Задача была реализована на платформе Codepen.io: [https://codepen.io/Yulia-Aseeva/pen/mdaywKK](https://codepen.io/Yulia-Aseeva/pen/mdaywKK).
 
+Я создала простую форму, которая позволяет пользователям легко отправлять нам сообщения. Благодаря HTML мы сделали ее интуитивно понятной и удобной в использовании. Теперь наши пользователи могут связаться с нами всего лишь в пару кликов.
+
+<img width="560" alt="Снимок экрана 2024-02-20 в 16 46 07" src="https://github.com/IuliaAseeva/form1/assets/149232931/62e8fd49-e78b-45ce-84cf-192f80f89459">
